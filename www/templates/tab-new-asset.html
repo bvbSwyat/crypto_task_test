@@ -1,0 +1,26 @@
+<ion-view view-title="New Asset">
+  <ion-content class="padding">
+    <div class="list">
+      <label class="item item-input item-stacked-label">
+        <span class="input-label">Recipient</span>
+        <input type="text" ng-model="form.recipient">
+      </label>
+      <label class="item item-input item-stacked-label">
+        <span class="input-label">Name</span>
+        <input type="text" ng-model="form.name">
+      </label>
+      <label class="item item-input item-stacked-label">
+        <span class="input-label">Description</span>
+        <input type="text" ng-model="form.description">
+      </label>
+       <label class="item item-input item-stacked-label">
+        <span class="input-label">Type</span>
+        <input type="text" ng-model="form.type">
+      </label>
+    </div>
+    <button class="button button-block" ng-class="buttonStatus"
+            ng-click="buttonStatus == 'button-stable' ? saveAES() : ''">
+      {{ saveButton[buttonStatus] }}
+    </button>
+  </ion-content>
+</ion-view>

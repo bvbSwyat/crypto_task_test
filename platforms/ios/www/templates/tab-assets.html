@@ -1,0 +1,13 @@
+<ion-view view-title="Assets">
+  <ion-content class="padding">
+    <div class="list">
+        <div ng-repeat="(assetKey, assetItem) in assets">
+            <a class="item item-icon-left" href="#tab/assets/{{ assetKey }}">
+                <i class="icon ion-ios-bookmarks-outline"></i>
+                <h2>{{ assetItem.name }}</h2>
+                <p>{{ assetItem.description }}</p>
+            </a>
+        </div>
+    </div>
+  </ion-content>
+</ion-view>

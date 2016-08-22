@@ -1,0 +1,91 @@
+{
+  "uuid": "aasddaa-432wf-f24rdgs-sdfsf53-sdfsfsfsd",
+  "format": "2015-11-10",
+  "assets": [
+    {
+      "uuid": "werbdfb-sdfw45tdf-gst5er-ssdtfgn",
+      "createdAt": "2008-05-05 19:45:45",
+      "updatedAt": "2008-05-05 19:45:45",
+      "name": "Bank  accounts1",
+      "description": "Where all the money is kept",
+      "type": [
+        "finance"
+      ],
+      "recipient": "Sarah Connor",
+      "versions": {
+        "12314-1231512-123121512-114": {
+          "payload": {
+            "username": "",
+            "password": "",
+            "passphrase": "",
+            "notes": ""
+          },
+          "createdAt": "2015-08-05 19:45:45",
+          "createdFrom": "26.16.16.142",
+          "keyUsed": {
+            "internalId": 5,
+            "gpgFingerprint": "566TYSDF356"
+          }
+        },
+        "9808090-sdsfdiuouo-1sdfsfyi512-114sdfs": {
+          "payload": {
+            "username": "",
+            "password": "",
+            "passphrase": "",
+            "notes": ""
+          },
+          "createdAt": "2015-05-05 19:45:45",
+          "createdFrom": "56.14.56.12",
+          "keyUsed": {
+            "internalId": 5,
+            "gpgFingerprint": "566TYSDF356"
+          }
+        }
+      }
+    },
+    {
+      "uuid": "werbdfb-sdfw45tdf-gst5er-ssdtfgn",
+      "createdAt": "2008-05-05 19:45:45",
+      "updatedAt": "2008-05-05 19:45:45",
+      "name": "Bank  accounts2",
+      "description": "Where all the money is kept",
+      "type": [
+        "finance"
+      ],
+      "recipient": "Sarah Connor",
+      "versions": {
+        "12314-1231512-123121512-114": {
+          "payload": {
+            "username": "",
+            "password": "",
+            "passphrase": "",
+            "notes": ""
+          },
+          "createdAt": "2015-08-05 19:45:45",
+          "createdFrom": "26.16.16.142",
+          "keyUsed": {
+            "internalId": 5,
+            "gpgFingerprint": "566TYSDF356"
+          }
+        },
+        "9808090-sdsfdiuouo-1sdfsfyi512-114sdfs": {
+          "payload": {
+            "username": "",
+            "password": "",
+            "passphrase": "",
+            "notes": ""
+          },
+          "createdAt": "2015-05-05 19:45:45",
+          "createdFrom": "56.14.56.12",
+          "keyUsed": {
+            "internalId": 5,
+            "gpgFingerprint": "566TYSDF356"
+          }
+        }
+      }
+    }
+  ],
+  "createdAt": "2008-05-05 19:45:45",
+  "updatedAt": "2008-05-05 19:45:45",
+  "hmac": "123jk1hldkshfsaisdaf£wdfdfsd3453SSDFSFS23423422wggsDFGdgfdsg"
+}
